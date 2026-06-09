@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bestmechkeyboard.com/</loc></url>
-  <url><loc>https://bestmechkeyboard.com/about.html</loc></url>
-  <url><loc>https://bestmechkeyboard.com/contact.html</loc></url>
-  <url><loc>https://bestmechkeyboard.com/privacy.html</loc></url>
-  <url><loc>https://bestmechkeyboard.com/buying-guide.html</loc></url>
-  <url><loc>https://bestmechkeyboard.com/comparison.html</loc></url>
-  <url><loc>https://bestmechkeyboard.com/tips.html</loc></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-buyers-handbook-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-quality-vs-marketing.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-worth-the-upgrade-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-explained-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-buying-guide-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/best-mechkeyboard-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/how-to-pick-mechkeyboard-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-reviewed-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/mechkeyboard-what-wed-buy-2026.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://bestmechkeyboard.com/no-bs-mechkeyboard-guide-2026.html</loc><lastmod>2026-06-07</lastmod></url>
+  <url>
+    <loc>https://bestmechkeyboard.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
